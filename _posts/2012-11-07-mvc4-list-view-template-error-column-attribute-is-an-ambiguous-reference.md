@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MVC4 List view template error: Column Attribute is an ambiguous reference
+title: "MVC4 List view template error: Column Attribute is an ambiguous reference"
 date: 2012-11-07 10:59
 author: kal
 comments: true

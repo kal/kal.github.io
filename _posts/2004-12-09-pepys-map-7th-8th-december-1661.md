@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pepys-Map :  7th - 8th December 1661
+title: "Pepys-Map :  7th - 8th December 1661"
 date: 2004-12-09 19:01
 author: kal
 comments: true

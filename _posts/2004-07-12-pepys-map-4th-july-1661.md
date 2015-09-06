@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pepys-Map: 4th July 1661
+title: "Pepys-Map: 4th July 1661"
 date: 2004-07-12 20:30
 author: kal
 comments: true

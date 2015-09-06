@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pepys-Map : 11th October 1661
+title: "Pepys-Map : 11th October 1661"
 date: 2004-10-12 08:13
 author: kal
 comments: true

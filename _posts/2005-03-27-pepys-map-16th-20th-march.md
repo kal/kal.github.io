@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pepys-Map : 16th - 20th March
+title: "Pepys-Map : 16th - 20th March"
 date: 2005-03-27 14:07
 author: kal
 comments: true

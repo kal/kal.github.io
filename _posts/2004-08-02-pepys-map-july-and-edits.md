@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pepys-Map: July and edits
+title: "Pepys-Map: July and edits"
 date: 2004-08-02 20:33
 author: kal
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pepys-Map : 12th - 17th October
+title: "Pepys-Map : 12th - 17th October"
 date: 2004-10-18 16:26
 author: kal
 comments: true

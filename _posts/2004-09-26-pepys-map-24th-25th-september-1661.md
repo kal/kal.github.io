@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pepys-Map : 24th-25th September 1661
+title: "Pepys-Map : 24th-25th September 1661"
 date: 2004-09-26 14:36
 author: kal
 comments: true

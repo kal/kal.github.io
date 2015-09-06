@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pepys-Map : 3rd - 7th March 1662
+title: "Pepys-Map : 3rd - 7th March 1662"
 date: 2005-03-21 18:20
 author: kal
 comments: true

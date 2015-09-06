@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pepys-Map :  19th - 21st December 1661
+title: "Pepys-Map :  19th - 21st December 1661"
 date: 2004-12-22 13:46
 author: kal
 comments: true

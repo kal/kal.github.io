@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pepys-Map: Another note about dates
+title: "Pepys-Map: Another note about dates"
 date: 2004-07-25 21:45
 author: kal
 comments: true

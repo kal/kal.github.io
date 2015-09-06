@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pepys-Map :  3rd - 4th November
+title: "Pepys-Map :  3rd - 4th November"
 date: 2004-11-05 22:59
 author: kal
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pepys-Map : 26th - 28th August 1661
+title: "Pepys-Map : 26th - 28th August 1661"
 date: 2004-08-29 18:03
 author: kal
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pepys-Map :  27th November 1661
+title: "Pepys-Map :  27th November 1661"
 date: 2004-11-28 21:29
 author: kal
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pepys-Map: 11th and 12th August 1661
+title: "Pepys-Map: 11th and 12th August 1661"
 date: 2004-08-13 20:44
 author: kal
 comments: true

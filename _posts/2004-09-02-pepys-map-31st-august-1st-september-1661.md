@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pepys-Map : 31st August - 1st September 1661
+title: "Pepys-Map : 31st August - 1st September 1661"
 date: 2004-09-02 21:24
 author: kal
 comments: true

@@ -4,8 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I'm an Oxford-based developer and consultant with a specialism in standards-based information management. In 2004
+I co-founded [NetworkedPlanet](http://networkedplanet.com/) to build Topic Maps-based information management systems
+for the Microsoft .NET platform. In the intervening years I have also developed hybrid Topic Maps/RDF based solutions;
+[BrightstarDB](http://brightstardb.com/) - an open-source RDF triple store; and the [Data Platform](http://dataplatform.co.uk/)
+a simple Linked Data publishing solution.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I'm also a keen photographer with no real specialism as such - I just enjoy making pictures. I have a bit of a passion 
+for film and for shooting <a href="http://en.wikipedia.org/wiki/Rangefinder_camera">rangefinder cameras</a>, but 
+otherwise I'm quite normal. If you like the pictures here, I also have a 
+<a href="http://www.flickr.com/photos/fuzzed/">stream on Flickr</a> which gets updated a bit more frequently than this blog.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+If you want to get in touch with me, you can do so by emailing me as kal AT (the first word in the name of this blog) DOT com.
+

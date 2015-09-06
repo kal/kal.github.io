@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pepys-Map : August Roundup
+title: "Pepys-Map : August Roundup"
 date: 2004-09-11 13:37
 author: kal
 comments: true

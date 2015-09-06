@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pepys-Map: 24th August
+title: "Pepys-Map: 24th August"
 date: 2004-08-25 17:35
 author: kal
 comments: true

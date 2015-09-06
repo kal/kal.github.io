@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pepys-Map: 29th and 30th June
+title: "Pepys-Map: 29th and 30th June"
 date: 2004-08-23 20:30
 author: kal
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pepys-Map :  18th-20th October 1661
+title: "Pepys-Map :  18th-20th October 1661"
 date: 2004-10-21 10:22
 author: kal
 comments: true

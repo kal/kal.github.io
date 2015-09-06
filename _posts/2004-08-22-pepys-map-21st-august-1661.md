@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pepys-Map: 21st August 1661
+title: "Pepys-Map: 21st August 1661"
 date: 2004-08-22 21:57
 author: kal
 comments: true

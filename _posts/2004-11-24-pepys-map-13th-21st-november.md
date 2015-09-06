@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pepys-Map : 13th - 21st November
+title: "Pepys-Map : 13th - 21st November"
 date: 2004-11-24 22:57
 author: kal
 comments: true

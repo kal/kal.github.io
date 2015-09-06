@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pepys-Map : 25th February 1662
+title: "Pepys-Map : 25th February 1662"
 date: 2005-02-28 21:54
 author: kal
 comments: true

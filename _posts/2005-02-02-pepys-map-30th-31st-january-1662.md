@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pepys-Map : 30th-31st January 1662
+title: "Pepys-Map : 30th-31st January 1662"
 date: 2005-02-02 17:43
 author: kal
 comments: true

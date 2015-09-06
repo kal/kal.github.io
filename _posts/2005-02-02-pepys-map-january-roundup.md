@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pepys-Map : January Roundup
+title: "Pepys-Map : January Roundup"
 date: 2005-02-02 19:12
 author: kal
 comments: true

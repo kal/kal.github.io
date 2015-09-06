@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Paper: 'Topic Map Patterns For Information Architecture'
+title: "New Paper: 'Topic Map Patterns For Information Architecture'"
 date: 2003-04-20 20:52
 author: kal
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pepys-Map : 27th December 1661 - 2nd January 1662
+title: "Pepys-Map : 27th December 1661 - 2nd January 1662"
 date: 2005-01-03 21:35
 author: kal
 comments: true

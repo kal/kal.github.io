@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pepys-Map :  5th November
+title: "Pepys-Map :  5th November"
 date: 2004-11-09 13:19
 author: kal
 comments: true

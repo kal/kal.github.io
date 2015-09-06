@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pepys-May: 5th-6th September 1661
+title: "Pepys-May: 5th-6th September 1661"
 date: 2004-09-07 14:47
 author: kal
 comments: true
