@@ -1,0 +1,17 @@
+---
+layout: post
+title: rdfQuery + OpenCalais + Cloud Storage = Personal Knowledge Base ?
+date: 2009-03-11 13:53
+author: kal
+comments: true
+categories: [ideas, OpenCalais, RDF, Semantic Web]
+---
+Last night's <a href="http://swig.networkedplanet.com/">Oxford SWiG</a> meeting was interesting and sociable as usual. There were three great presentations - Jeni Tennison on <a href="http://code.google.com/p/rdfquery/">rdfQuery</a>, a jQuery-like Javascript library for parsing, querying and generating <a href="http://www.w3.org/TR/rdfa-syntax/">RDFa</a> markup; Iain Emsley presented a WP plug-in that creates RDF graphs for blog posts showing a nice use of multiple ontologies; Laurian Gridinoc talked about the plans for <a href="http://powermagpie.open.ac.uk/">PowerMagpie</a> - with lots of ideas for navigation/presentation of large taxonomies and complex ontologies.
+
+As usual though the real action was in the pub. One of the things we got to discussing was whether rdfQuery could be used to create stand-off markup on someone else's content. <a href="http://surguy.net/">Inigo Surguy</a> pointed out that using tools such as <a href="http://www.greasespot.net/">Greasemonkey</a> it should be pretty easy to get rdfQuery to scrape a page for the RDFa it contains and to add custom scripts to do something cool with that data. The problem comes when trying to persist any new RDF statements you might create. RDFa is a syntax for embedding RDF within HTML - so if you are in control of the page that you are adding the markup to, it is trivial to persist that markup simply by saving the modified file. If you are not in control of the page then you have some problems. The easy case is when the publisher of the page has already identified things that you might want to talk about and wrapped them in some RDFa. In this case you can simply add some more statements about those entities. What is harder is if the publisher of the page hasn't marked up anything with RDFa. What is needed is a "bootstrap" mechanism to locate entities that you might want to talk about.
+
+That is where <a href="http://www.opencalais.com/">OpenCalais</a> comes in. The OpenCalais service takes content and locates entities within it, returning the content with markup added that identifies the entities within. Using some custom code interfacing to rdfQuery, it should be possible to turn the results from OpenCalais into RDFa, then you can do all the funky stuff you want with the RDF and serialize it to some persistent store (either on another web service such as the <a href="http://www.talis.com/platform/">Talis platform</a> or maybe to a local persistence mechanism such as Gears). Now, when you return to the page, your script again goes to OpenCalais to get the entities identified within and again turns this into RDF, but now you can smoosh in the RDF from your persistent store to retrieve all that cool markup you added.
+
+What's even better is that because OpenCalais has unique identifiers for the entities it recognizes, if you then visit another page that contains a reference to the same entity you should be able to pull in your extra markup automatically. I'm pretty sure that with this approach it should be possible to build up a personal knowledge store that can be merged into web pages as you view them, combine with some clever javascript to present that information and to allow you to extend the set of statements in the store and you have something really rather cool.
+
+Just need to code it now ;-)
